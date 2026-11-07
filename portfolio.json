@@ -15,6 +15,18 @@
       ],
       "url": "https://gam-test-wheat.vercel.app",
       "img": "img/w1.jpg"
+    },
+    {
+      "week": 2,
+      "title": "eCRF 요청 분류기 — 빈 폴더에서",
+      "line": "eCRF 요청 한 줄을 넣으면 칸 · 긴급도 · 이유가 나옵니다. 문장과 정답은 직접 만들었습니다",
+      "judgment": "데이터를 다른 칸으로 놓치는 것을 가장 나쁜 실수로 정했다. 규칙은 데이터 6건 중 4건을 놓쳤다. 채점용 30개의 정답은 AI의 의도를 가린 채 내가 붙였고, 6개가 갈렸다",
+      "ai": [
+        "Claude Code",
+        "Gemini"
+      ],
+      "url": "https://my-classifier-mauve.vercel.app/",
+      "img": ""
     }
   ],
   "proposal": null
