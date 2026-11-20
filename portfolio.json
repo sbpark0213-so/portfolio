@@ -38,6 +38,19 @@
       ],
       "url": "https://my-cleaner-lake.vercel.app/",
       "img": "img/w3.png"
+    },
+    {
+      "week": 4,
+      "title": "월간 보고 SQL 앱",
+      "line": "매달 추출한 엑셀을 넣으면 정해 둔 질문의 답이 SQL과 함께 나옵니다",
+      "judgment": "재문의는 비율(해지 36.0%)과 건수(요금 2,053건)를 같이 보기로 정했다. 고객 테이블에 문의를 조인할 때는 문의를 먼저 집계하고 customers를 다 남겨 50,000행이 예상과 같은지 맞췄다. 다음 달 파일에서는 기댓값 대신 정답 파일과 대조한다",
+      "ai": [
+        "Claude Code (MCP · 서브에이전트)",
+        "BigQuery",
+        "Gemini"
+      ],
+      "url": "https://sql-window-git-main-te-a-m2.vercel.app/",
+      "img": ""
     }
   ],
   "proposal": null
